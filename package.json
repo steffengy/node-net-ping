@@ -16,8 +16,8 @@
     } 
   ],
   "repository": {
-    "type": "mercurial",
-    "url": "https://bitbucket.org/stephenwvickers/node-net-ping"
+    "type": "git",
+    "url": "https://github.com/steffengy/node-net-ping"
   },
   "keywords": [
     "echo",
