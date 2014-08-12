@@ -1,5 +1,5 @@
 {
-  "name": "net-ping",
+  "name": "net-ping2",
   "version": "1.1.10",
   "description": "Ping and trace route to many hosts at once.",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "example": "example"
   },
   "dependencies": {
-    "raw-socket": "*"
+    "raw-socket2": "*"
   },
   "contributors": [ 
     {
